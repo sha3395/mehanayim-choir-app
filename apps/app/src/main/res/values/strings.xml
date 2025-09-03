@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mehanayim Choir</string>
+    
+    <!-- Auth -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="music">Music</string>
+    <string name="social">Social</string>
+    <string name="news">News</string>
+    <string name="profile">Profile</string>
+    
+    <!-- Admin -->
+    <string name="ui_editor">UI Editor</string>
+    <string name="upload">Upload</string>
+    <string name="management">Management</string>
+    
+    <!-- Music -->
+    <string name="music_library">Music Library</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="lyrics">Lyrics</string>
+    
+    <!-- Social -->
+    <string name="social_feed">Social Feed</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="reply">Reply</string>
+    <string name="share">Share</string>
+    
+    <!-- News -->
+    <string name="choir_news">Choir News</string>
+    <string name="read_more">Read More</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="bio">Bio</string>
+    <string name="account_information">Account Information</string>
+    <string name="member_since">Member Since</string>
+    
+    <!-- Admin -->
+    <string name="admin_panel">Admin Panel</string>
+    <string name="no_code_interface_editor">No-Code Interface Editor</string>
+    <string name="open_ui_editor">Open UI Editor</string>
+    <string name="upload_music_lyrics">Upload Music &amp; Lyrics</string>
+    <string name="upload_music">Upload Music</string>
+    <string name="user_management">User Management</string>
+    <string name="manage_users">Manage Users</string>
+    <string name="news_management">News Management</string>
+    <string name="publish_news">Publish News</string>
+    <string name="create_news">Create News</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="block">Block</string>
+    <string name="unblock">Unblock</string>
+    <string name="publish">Publish</string>
+    <string name="unpublish">Unpublish</string>
+    <string name="draft">Draft</string>
+    <string name="published">Published</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+</resources>
